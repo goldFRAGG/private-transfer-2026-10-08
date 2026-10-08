@@ -1,0 +1,52 @@
+﻿{
+    "filename":  "Монстр.История Лиззи Борден.S01.2026.WEB-DLRip-AVC.x264.seleZen.rar",
+    "size":  7536822141,
+    "sha256":  "BA96BC84639E800BAC8E03145F4D1FB5CB95312D5F2B30150DB6F810CD7580C1",
+    "parts":  [
+                  {
+                      "name":  "archive.rar.part001",
+                      "size":  1992294400,
+                      "sha256":  "7D1EE77663357B9472CAD98A1ED91F13B7C0F8E6C10053EDE2BE100078E33F02"
+                  },
+                  {
+                      "name":  "archive.rar.part002",
+                      "size":  1992294400,
+                      "sha256":  "F2D5CB26A0837AADCC3ADC616CB532DDEE3EC498AB84CBC8CDC2A23191E31D97"
+                  },
+                  {
+                      "sha256":  "06C6F59B6B6D109DB4A9E561AD9B9B982025E48D35D4280C4A54BCB69F7BAAB1",
+                      "name":  "archive.rar.part003-slice001",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "7FA2A3B0CF4B341EFF53A0EB545F0494ADA277BC72843EB83DD7CC7A083499F1",
+                      "name":  "archive.rar.part003-slice002",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "45E409192BCEC880C47D21F73A9715F702394A6906D03214F1A5AA0A8D1D7649",
+                      "name":  "archive.rar.part003-slice003",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "F1714FBAB4F25F34E4D5629805162BE5A6999E6D08675DD413251B43FBD381B5",
+                      "name":  "archive.rar.part003-slice004",
+                      "size":  419430400
+                  },
+                  {
+                      "sha256":  "F01A8EAB0CB41C9D4421AD93B592D83A197284973E1B1803EC8FA2D834019AE3",
+                      "name":  "archive.rar.part004-slice001",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "665E82EE8D837F108F01933F39C628001E3D2D46760A41BF0B9634925C23BD89",
+                      "name":  "archive.rar.part004-slice002",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "C082366D5D06213893EA19126645FBA9F1A1D5ABC322A8EE3EF441AD0845691B",
+                      "name":  "archive.rar.part004-slice003",
+                      "size":  511362941
+                  }
+              ]
+}
