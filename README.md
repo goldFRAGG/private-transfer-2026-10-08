@@ -6,7 +6,7 @@
 
 1. Войдите в GitHub под аккаунтом `goldFRAGG`.
 2. Откройте [страницу загрузки](https://github.com/goldFRAGG/private-transfer-2026-10-08/releases/tag/transfer-v1).
-3. Скачайте все девять файлов `archive.rar.part*` в одну папку.
+3. Скачайте все двенадцать файлов `archive.rar.part*` в одну папку.
 4. С той же страницы скачайте `manifest-v2.json`, `assemble-v2.ps1` и `assemble-v2.cmd` в эту папку.
 5. Дважды нажмите `assemble-v2.cmd`. Он проверит части и соберёт исходный RAR.
 

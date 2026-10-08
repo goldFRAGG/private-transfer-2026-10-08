@@ -4,9 +4,24 @@
     "sha256":  "BA96BC84639E800BAC8E03145F4D1FB5CB95312D5F2B30150DB6F810CD7580C1",
     "parts":  [
                   {
-                      "name":  "archive.rar.part001",
-                      "size":  1992294400,
-                      "sha256":  "7D1EE77663357B9472CAD98A1ED91F13B7C0F8E6C10053EDE2BE100078E33F02"
+                      "sha256":  "81EA3FB747C5309D699AAE9D4AE0E298F4538714B434D3E6BB14EB168BC547CC",
+                      "name":  "archive.rar.part001-slice001",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "B692D7835492F09E404952AA81C63E6396EBDD8F399F537D86DF9C29A7D017CF",
+                      "name":  "archive.rar.part001-slice002",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "F54022ED6DAD414B4CE54E49E14D55A71157C59CC4B648ACC56BFB73D554941F",
+                      "name":  "archive.rar.part001-slice003",
+                      "size":  524288000
+                  },
+                  {
+                      "sha256":  "6F0C9FA9D25316ED1E51758F9E1BC5EFAE530FF7427F0ACD6F1C16702ED4A2EF",
+                      "name":  "archive.rar.part001-slice004",
+                      "size":  419430400
                   },
                   {
                       "name":  "archive.rar.part002",
